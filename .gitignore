@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+.env
+*.pth
+*.pt
+.DS_Store
+*.png
+adult.data
+adult.test
+german.data
+*.data
+*.test
